@@ -1,5 +1,5 @@
 # HealthCare
-<img align="right" width="150" height="150" src="Images/img1.png">
+<img align="right" width="125" height="125" src="Images/img1.png">
 
 HealthCare was designed to help people with pills managment. With our easy to use calendar tool user could plan his tablet intake time. With our online store he could order meds from out partner shops for greates price. Map could provie nearest hospitals and meds shops. Wiki provides an oportunity to read about diseases and meds.
 # Problem
