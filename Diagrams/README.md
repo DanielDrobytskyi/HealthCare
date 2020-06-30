@@ -1,2 +1,3 @@
 # Diagrams
-<img src="Diagrams/UseCase_HealthCare.png">
+## Use Case
+<img src="UseCase_HealthCare.png">
