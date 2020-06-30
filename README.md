@@ -19,7 +19,8 @@ HealthCare was designed to help people with pills managment. With our easy to us
 + People who wants to control there tablet intake time
 
 # Use-case Diagram
-<img src="Diagrams/UseCase_HealthCare.png">
+<img src="Diagrams/UseCase_HealthCare.png"/>
+
 # Process flow Diagram
 
 # Class Diagram
